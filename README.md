@@ -22,6 +22,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/devlavaniya/Leetcode_practice/tree/master/0141-linked-list-cycle) |
 | [0349-intersection-of-two-arrays](https://github.com/devlavaniya/Leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
+| [2248-intersection-of-multiple-arrays](https://github.com/devlavaniya/Leetcode_practice/tree/master/2248-intersection-of-multiple-arrays) |
 ## String
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/devlavaniya/Leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
+| [2248-intersection-of-multiple-arrays](https://github.com/devlavaniya/Leetcode_practice/tree/master/2248-intersection-of-multiple-arrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -38,4 +40,9 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/devlavaniya/Leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
+| [2248-intersection-of-multiple-arrays](https://github.com/devlavaniya/Leetcode_practice/tree/master/2248-intersection-of-multiple-arrays) |
+## Counting
+|  |
+| ------- |
+| [2248-intersection-of-multiple-arrays](https://github.com/devlavaniya/Leetcode_practice/tree/master/2248-intersection-of-multiple-arrays) |
 <!---LeetCode Topics End-->
