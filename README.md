@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [1332-remove-palindromic-subsequences](https://github.com/devlavaniya/Leetcode_practice/tree/master/1332-remove-palindromic-subsequences) |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/devlavaniya/Leetcode_practice/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 ## Array
 |  |
 | ------- |
@@ -53,4 +54,8 @@
 |  |
 | ------- |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/devlavaniya/Leetcode_practice/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
+## Simulation
+|  |
+| ------- |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/devlavaniya/Leetcode_practice/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 <!---LeetCode Topics End-->
