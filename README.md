@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/devlavaniya/Leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
+| [0503-next-greater-element-ii](https://github.com/devlavaniya/Leetcode_practice/tree/master/0503-next-greater-element-ii) |
 | [2248-intersection-of-multiple-arrays](https://github.com/devlavaniya/Leetcode_practice/tree/master/2248-intersection-of-multiple-arrays) |
 ## Binary Search
 |  |
@@ -63,4 +64,12 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/devlavaniya/Leetcode_practice/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/devlavaniya/Leetcode_practice/tree/master/0503-next-greater-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/devlavaniya/Leetcode_practice/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
