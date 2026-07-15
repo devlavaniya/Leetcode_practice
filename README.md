@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/devlavaniya/Leetcode_practice/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/devlavaniya/Leetcode_practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Greedy
 |  |
 | ------- |
@@ -58,4 +59,8 @@
 |  |
 | ------- |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/devlavaniya/Leetcode_practice/tree/master/2138-divide-a-string-into-groups-of-size-k) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/devlavaniya/Leetcode_practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
