@@ -36,6 +36,7 @@
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/devlavaniya/Leetcode_practice/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/devlavaniya/Leetcode_practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/devlavaniya/Leetcode_practice/tree/master/0213-house-robber-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/devlavaniya/Leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
@@ -111,11 +112,13 @@
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/devlavaniya/Leetcode_practice/tree/master/0064-minimum-path-sum) |
 | [1260-shift-2d-grid](https://github.com/devlavaniya/Leetcode_practice/tree/master/1260-shift-2d-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/devlavaniya/Leetcode_practice/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/devlavaniya/Leetcode_practice/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/devlavaniya/Leetcode_practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/devlavaniya/Leetcode_practice/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/devlavaniya/Leetcode_practice/tree/master/0509-fibonacci-number) |
