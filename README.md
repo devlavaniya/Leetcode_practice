@@ -43,6 +43,7 @@
 | [0503-next-greater-element-ii](https://github.com/devlavaniya/Leetcode_practice/tree/master/0503-next-greater-element-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/devlavaniya/Leetcode_practice/tree/master/0746-min-cost-climbing-stairs) |
 | [1260-shift-2d-grid](https://github.com/devlavaniya/Leetcode_practice/tree/master/1260-shift-2d-grid) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/devlavaniya/Leetcode_practice/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devlavaniya/Leetcode_practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/devlavaniya/Leetcode_practice/tree/master/2248-intersection-of-multiple-arrays) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/devlavaniya/Leetcode_practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -114,6 +115,7 @@
 | ------- |
 | [0064-minimum-path-sum](https://github.com/devlavaniya/Leetcode_practice/tree/master/0064-minimum-path-sum) |
 | [1260-shift-2d-grid](https://github.com/devlavaniya/Leetcode_practice/tree/master/1260-shift-2d-grid) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/devlavaniya/Leetcode_practice/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -123,6 +125,7 @@
 | [0213-house-robber-ii](https://github.com/devlavaniya/Leetcode_practice/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/devlavaniya/Leetcode_practice/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/devlavaniya/Leetcode_practice/tree/master/0746-min-cost-climbing-stairs) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/devlavaniya/Leetcode_practice/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Recursion
 |  |
 | ------- |
