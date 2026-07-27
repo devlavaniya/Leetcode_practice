@@ -66,6 +66,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/devlavaniya/Leetcode_practice/tree/master/0062-unique-paths) |
+| [0279-perfect-squares](https://github.com/devlavaniya/Leetcode_practice/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/devlavaniya/Leetcode_practice/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devlavaniya/Leetcode_practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/devlavaniya/Leetcode_practice/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/devlavaniya/Leetcode_practice/tree/master/0102-binary-tree-level-order-traversal) |
+| [0279-perfect-squares](https://github.com/devlavaniya/Leetcode_practice/tree/master/0279-perfect-squares) |
 ## Binary Tree
 |  |
 | ------- |
@@ -125,6 +127,7 @@
 | [0064-minimum-path-sum](https://github.com/devlavaniya/Leetcode_practice/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/devlavaniya/Leetcode_practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/devlavaniya/Leetcode_practice/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/devlavaniya/Leetcode_practice/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/devlavaniya/Leetcode_practice/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/devlavaniya/Leetcode_practice/tree/master/0746-min-cost-climbing-stairs) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/devlavaniya/Leetcode_practice/tree/master/1277-count-square-submatrices-with-all-ones) |
