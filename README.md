@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devlavaniya/Leetcode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/devlavaniya/Leetcode_practice/tree/master/0006-zigzag-conversion) |
 | [1332-remove-palindromic-subsequences](https://github.com/devlavaniya/Leetcode_practice/tree/master/1332-remove-palindromic-subsequences) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/devlavaniya/Leetcode_practice/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devlavaniya/Leetcode_practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
