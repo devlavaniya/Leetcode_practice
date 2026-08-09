@@ -29,6 +29,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/devlavaniya/Leetcode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/devlavaniya/Leetcode_practice/tree/master/0141-linked-list-cycle) |
 | [0349-intersection-of-two-arrays](https://github.com/devlavaniya/Leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
+| [0771-jewels-and-stones](https://github.com/devlavaniya/Leetcode_practice/tree/master/0771-jewels-and-stones) |
 | [2248-intersection-of-multiple-arrays](https://github.com/devlavaniya/Leetcode_practice/tree/master/2248-intersection-of-multiple-arrays) |
 | [2784-check-if-array-is-good](https://github.com/devlavaniya/Leetcode_practice/tree/master/2784-check-if-array-is-good) |
 | [3731-find-missing-elements](https://github.com/devlavaniya/Leetcode_practice/tree/master/3731-find-missing-elements) |
@@ -37,6 +38,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devlavaniya/Leetcode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/devlavaniya/Leetcode_practice/tree/master/0006-zigzag-conversion) |
+| [0771-jewels-and-stones](https://github.com/devlavaniya/Leetcode_practice/tree/master/0771-jewels-and-stones) |
 | [1332-remove-palindromic-subsequences](https://github.com/devlavaniya/Leetcode_practice/tree/master/1332-remove-palindromic-subsequences) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/devlavaniya/Leetcode_practice/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devlavaniya/Leetcode_practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
