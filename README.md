@@ -98,6 +98,7 @@
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/devlavaniya/Leetcode_practice/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devlavaniya/Leetcode_practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/devlavaniya/Leetcode_practice/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/devlavaniya/Leetcode_practice/tree/master/3360-stone-removal-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/devlavaniya/Leetcode_practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/devlavaniya/Leetcode_practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/devlavaniya/Leetcode_practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -114,6 +115,7 @@
 | [1260-shift-2d-grid](https://github.com/devlavaniya/Leetcode_practice/tree/master/1260-shift-2d-grid) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/devlavaniya/Leetcode_practice/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2553-separate-the-digits-in-an-array](https://github.com/devlavaniya/Leetcode_practice/tree/master/2553-separate-the-digits-in-an-array) |
+| [3360-stone-removal-game](https://github.com/devlavaniya/Leetcode_practice/tree/master/3360-stone-removal-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/devlavaniya/Leetcode_practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
