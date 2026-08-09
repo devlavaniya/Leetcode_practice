@@ -56,6 +56,7 @@
 | [0503-next-greater-element-ii](https://github.com/devlavaniya/Leetcode_practice/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devlavaniya/Leetcode_practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/devlavaniya/Leetcode_practice/tree/master/0746-min-cost-climbing-stairs) |
+| [1046-last-stone-weight](https://github.com/devlavaniya/Leetcode_practice/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/devlavaniya/Leetcode_practice/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/devlavaniya/Leetcode_practice/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/devlavaniya/Leetcode_practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -178,5 +179,6 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1046-last-stone-weight](https://github.com/devlavaniya/Leetcode_practice/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/devlavaniya/Leetcode_practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
