@@ -92,6 +92,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/devlavaniya/Leetcode_practice/tree/master/0062-unique-paths) |
 | [0279-perfect-squares](https://github.com/devlavaniya/Leetcode_practice/tree/master/0279-perfect-squares) |
+| [0292-nim-game](https://github.com/devlavaniya/Leetcode_practice/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/devlavaniya/Leetcode_practice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devlavaniya/Leetcode_practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devlavaniya/Leetcode_practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -183,4 +184,24 @@
 | ------- |
 | [1046-last-stone-weight](https://github.com/devlavaniya/Leetcode_practice/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/devlavaniya/Leetcode_practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/devlavaniya/Leetcode_practice/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/devlavaniya/Leetcode_practice/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/devlavaniya/Leetcode_practice/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/devlavaniya/Leetcode_practice/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/devlavaniya/Leetcode_practice/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
