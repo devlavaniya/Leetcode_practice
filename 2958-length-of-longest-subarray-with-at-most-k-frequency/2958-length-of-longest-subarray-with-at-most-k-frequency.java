@@ -10,7 +10,7 @@ class Solution {
             while(map.get(nums[right])>k){
                 map.put(nums[left],map.get(nums[left])-1);
                 left++;
-                // if(map.get(nums[left]) == 0) map.remove(nums[left]);
+                if(map.get(nums[left]) == 0) map.remove(nums[left]);
             }
 
             max = Math.max(max,right-left+1);
