@@ -34,6 +34,7 @@
 | [2784-check-if-array-is-good](https://github.com/devlavaniya/Leetcode_practice/tree/master/2784-check-if-array-is-good) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/devlavaniya/Leetcode_practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/devlavaniya/Leetcode_practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/devlavaniya/Leetcode_practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/devlavaniya/Leetcode_practice/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -44,6 +45,7 @@
 | [1332-remove-palindromic-subsequences](https://github.com/devlavaniya/Leetcode_practice/tree/master/1332-remove-palindromic-subsequences) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/devlavaniya/Leetcode_practice/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devlavaniya/Leetcode_practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/devlavaniya/Leetcode_practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/devlavaniya/Leetcode_practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/devlavaniya/Leetcode_practice/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Array
@@ -159,6 +161,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devlavaniya/Leetcode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/devlavaniya/Leetcode_practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/devlavaniya/Leetcode_practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Matrix
 |  |
 | ------- |
