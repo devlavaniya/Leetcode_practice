@@ -1,43 +1,80 @@
 class LRUCache {
-    ArrayList<int[]> list = new ArrayList<>();
+    // ArrayList<int[]> list = new ArrayList<>();
+    // int capacity;
+    // public LRUCache(int capacity) {
+    //     this.capacity = capacity;
+    //     list = new ArrayList<>();
+        
+    // }
+
+    class Node {
+        int key;
+        int value;
+        Node prev;
+        Node next;
+
+        Node(int key, int value) {
+            this.key = key;
+            this.value = value;
+        }
+    }
+
+    HashMap<Integer, Node> map = new HashMap<>();
+
+    Node head = new Node(0, 0);
+    Node tail = new Node(0, 0);
+
     int capacity;
+
     public LRUCache(int capacity) {
         this.capacity = capacity;
-        list = new ArrayList<>();
-        
+
+        head.next = tail;
+        tail.prev = head;
     }
     
     public int get(int key) {
-        for(int i=0 ; i<list.size() ; i++){
-            if(list.get(i)[0]  == key){
-                int value = list.get(i)[1];
-
-                list.remove(i);
-                list.add(new int [] {key , value});
-
-                return value;
-                
-            }
-        }
+        if(!map.containsKey(key)){
             return -1;
+        }
+        Node node = map.get(key);
+
+        remove(node);
+        add(node);
+
+        return node.value;
+       
     }
     
     public void put(int key, int value) {
-        for(int i=0 ; i<list.size() ; i++){
-            if(list.get(i)[0]  == key){
+        if(map.containsKey(key)){
+            Node node = map.get(key);
+            node.value = value;
 
-                list.remove(i);
-                list.add(new int [] {key , value});
+            remove(node);
+            add(node);
+            return ;
+        }
+        Node node = new Node(key , value);
+        add(node);
+        map.put(key , node);
 
-                return;
-                
-            }
+        if(map.size() > capacity){
+            Node lru = head.next;
+            remove(lru);
+            map.remove(lru.key);
         }
-        if(list.size()==capacity){
-            list.remove(0);
-        }
-         list.add(new int [] {key , value});
-        
+    }
+    private void add(Node node){
+        Node last = tail.prev;
+        last.next = node;
+        node.next = tail;
+        node.prev = last;
+        tail.prev = node;
+    }
+    private void remove(Node node){
+        node.prev.next = node.next;
+        node.next.prev = node.prev;
     }
 }
 
