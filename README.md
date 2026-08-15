@@ -61,6 +61,7 @@
 | [0213-house-robber-ii](https://github.com/devlavaniya/Leetcode_practice/tree/master/0213-house-robber-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/devlavaniya/Leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0503-next-greater-element-ii](https://github.com/devlavaniya/Leetcode_practice/tree/master/0503-next-greater-element-ii) |
+| [0561-array-partition](https://github.com/devlavaniya/Leetcode_practice/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devlavaniya/Leetcode_practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/devlavaniya/Leetcode_practice/tree/master/0746-min-cost-climbing-stairs) |
 | [1046-last-stone-weight](https://github.com/devlavaniya/Leetcode_practice/tree/master/1046-last-stone-weight) |
@@ -86,6 +87,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/devlavaniya/Leetcode_practice/tree/master/0016-3sum-closest) |
 | [0349-intersection-of-two-arrays](https://github.com/devlavaniya/Leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
+| [0561-array-partition](https://github.com/devlavaniya/Leetcode_practice/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devlavaniya/Leetcode_practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/devlavaniya/Leetcode_practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/devlavaniya/Leetcode_practice/tree/master/2248-intersection-of-multiple-arrays) |
@@ -119,6 +121,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/devlavaniya/Leetcode_practice/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devlavaniya/Leetcode_practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0561-array-partition](https://github.com/devlavaniya/Leetcode_practice/tree/master/0561-array-partition) |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/devlavaniya/Leetcode_practice/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devlavaniya/Leetcode_practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/devlavaniya/Leetcode_practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -225,4 +228,8 @@
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/devlavaniya/Leetcode_practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/devlavaniya/Leetcode_practice/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
