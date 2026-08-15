@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/devlavaniya/Leetcode_practice/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/devlavaniya/Leetcode_practice/tree/master/0146-lru-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/devlavaniya/Leetcode_practice/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -28,6 +29,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devlavaniya/Leetcode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/devlavaniya/Leetcode_practice/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/devlavaniya/Leetcode_practice/tree/master/0146-lru-cache) |
 | [0349-intersection-of-two-arrays](https://github.com/devlavaniya/Leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0771-jewels-and-stones](https://github.com/devlavaniya/Leetcode_practice/tree/master/0771-jewels-and-stones) |
 | [2248-intersection-of-multiple-arrays](https://github.com/devlavaniya/Leetcode_practice/tree/master/2248-intersection-of-multiple-arrays) |
@@ -232,4 +234,12 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/devlavaniya/Leetcode_practice/tree/master/0561-array-partition) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/devlavaniya/Leetcode_practice/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/devlavaniya/Leetcode_practice/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
