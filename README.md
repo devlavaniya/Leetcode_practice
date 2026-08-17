@@ -66,6 +66,7 @@
 | [0561-array-partition](https://github.com/devlavaniya/Leetcode_practice/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devlavaniya/Leetcode_practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/devlavaniya/Leetcode_practice/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/devlavaniya/Leetcode_practice/tree/master/0877-stone-game) |
 | [1046-last-stone-weight](https://github.com/devlavaniya/Leetcode_practice/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/devlavaniya/Leetcode_practice/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/devlavaniya/Leetcode_practice/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -110,6 +111,7 @@
 | [0292-nim-game](https://github.com/devlavaniya/Leetcode_practice/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/devlavaniya/Leetcode_practice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devlavaniya/Leetcode_practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/devlavaniya/Leetcode_practice/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devlavaniya/Leetcode_practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/devlavaniya/Leetcode_practice/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devlavaniya/Leetcode_practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -187,6 +189,7 @@
 | [0279-perfect-squares](https://github.com/devlavaniya/Leetcode_practice/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/devlavaniya/Leetcode_practice/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/devlavaniya/Leetcode_practice/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/devlavaniya/Leetcode_practice/tree/master/0877-stone-game) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/devlavaniya/Leetcode_practice/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/devlavaniya/Leetcode_practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
@@ -214,10 +217,12 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/devlavaniya/Leetcode_practice/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/devlavaniya/Leetcode_practice/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/devlavaniya/Leetcode_practice/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/devlavaniya/Leetcode_practice/tree/master/0877-stone-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -242,4 +247,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/devlavaniya/Leetcode_practice/tree/master/0146-lru-cache) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/devlavaniya/Leetcode_practice/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
