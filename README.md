@@ -251,4 +251,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/devlavaniya/Leetcode_practice/tree/master/0877-stone-game) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/devlavaniya/Leetcode_practice/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
