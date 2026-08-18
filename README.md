@@ -56,6 +56,7 @@
 | [0011-container-with-most-water](https://github.com/devlavaniya/Leetcode_practice/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/devlavaniya/Leetcode_practice/tree/master/0016-3sum-closest) |
 | [0064-minimum-path-sum](https://github.com/devlavaniya/Leetcode_practice/tree/master/0064-minimum-path-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/devlavaniya/Leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devlavaniya/Leetcode_practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/devlavaniya/Leetcode_practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/devlavaniya/Leetcode_practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -181,6 +182,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/devlavaniya/Leetcode_practice/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/devlavaniya/Leetcode_practice/tree/master/0064-minimum-path-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/devlavaniya/Leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devlavaniya/Leetcode_practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/devlavaniya/Leetcode_practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/devlavaniya/Leetcode_practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
