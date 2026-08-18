@@ -43,6 +43,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devlavaniya/Leetcode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/devlavaniya/Leetcode_practice/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/devlavaniya/Leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0771-jewels-and-stones](https://github.com/devlavaniya/Leetcode_practice/tree/master/0771-jewels-and-stones) |
 | [1332-remove-palindromic-subsequences](https://github.com/devlavaniya/Leetcode_practice/tree/master/1332-remove-palindromic-subsequences) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/devlavaniya/Leetcode_practice/tree/master/2138-divide-a-string-into-groups-of-size-k) |
@@ -147,6 +148,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/devlavaniya/Leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0503-next-greater-element-ii](https://github.com/devlavaniya/Leetcode_practice/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
@@ -261,4 +263,8 @@
 | [0182-duplicate-emails](https://github.com/devlavaniya/Leetcode_practice/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/devlavaniya/Leetcode_practice/tree/master/0183-customers-who-never-order) |
 | [0197-rising-temperature](https://github.com/devlavaniya/Leetcode_practice/tree/master/0197-rising-temperature) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/devlavaniya/Leetcode_practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
