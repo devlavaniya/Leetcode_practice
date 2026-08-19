@@ -45,6 +45,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devlavaniya/Leetcode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/devlavaniya/Leetcode_practice/tree/master/0006-zigzag-conversion) |
+| [0014-longest-common-prefix](https://github.com/devlavaniya/Leetcode_practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/devlavaniya/Leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/devlavaniya/Leetcode_practice/tree/master/0125-valid-palindrome) |
 | [0771-jewels-and-stones](https://github.com/devlavaniya/Leetcode_practice/tree/master/0771-jewels-and-stones) |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/devlavaniya/Leetcode_practice/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/devlavaniya/Leetcode_practice/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/devlavaniya/Leetcode_practice/tree/master/0016-3sum-closest) |
 | [0064-minimum-path-sum](https://github.com/devlavaniya/Leetcode_practice/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devlavaniya/Leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -271,4 +273,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/devlavaniya/Leetcode_practice/tree/master/0020-valid-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/devlavaniya/Leetcode_practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
