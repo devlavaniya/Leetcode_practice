@@ -127,6 +127,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/devlavaniya/Leetcode_practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3360-stone-removal-game](https://github.com/devlavaniya/Leetcode_practice/tree/master/3360-stone-removal-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/devlavaniya/Leetcode_practice/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/devlavaniya/Leetcode_practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/devlavaniya/Leetcode_practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/devlavaniya/Leetcode_practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
