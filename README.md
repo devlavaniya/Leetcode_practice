@@ -85,6 +85,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/devlavaniya/Leetcode_practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/devlavaniya/Leetcode_practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devlavaniya/Leetcode_practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/devlavaniya/Leetcode_practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/devlavaniya/Leetcode_practice/tree/master/2248-intersection-of-multiple-arrays) |
 | [2553-separate-the-digits-in-an-array](https://github.com/devlavaniya/Leetcode_practice/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/devlavaniya/Leetcode_practice/tree/master/2784-check-if-array-is-good) |
@@ -143,6 +144,7 @@
 | [0011-container-with-most-water](https://github.com/devlavaniya/Leetcode_practice/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devlavaniya/Leetcode_practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0561-array-partition](https://github.com/devlavaniya/Leetcode_practice/tree/master/0561-array-partition) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/devlavaniya/Leetcode_practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/devlavaniya/Leetcode_practice/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devlavaniya/Leetcode_practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/devlavaniya/Leetcode_practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
