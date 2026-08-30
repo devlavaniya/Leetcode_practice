@@ -6,16 +6,15 @@ class Solution {
         int mini=0;
         int maxi=0;
         for(int i=0 ; i<n ; i++){
-            max = Math.max(max , nums[i]);
-            min = Math.min(min , nums[i]);
-        }
-        for(int i=0 ; i<n ; i++){
-           if(nums[i]==max){
+           if(nums[i]>max){
                 maxi=i;
+                max=nums[i];
             }
-           else if(nums[i]==min){
-            mini=i;
-           }
+            if(nums[i]<min){
+                mini=i;
+                min=nums[i];
+            }
+        
         }
         int minii = Math.min(mini+1 , n-mini);
         int maxii = Math.min(maxi+1 , n-maxi);
