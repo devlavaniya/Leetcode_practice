@@ -124,6 +124,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/devlavaniya/Leetcode_practice/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/devlavaniya/Leetcode_practice/tree/master/0062-unique-paths) |
+| [0233-number-of-digit-one](https://github.com/devlavaniya/Leetcode_practice/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/devlavaniya/Leetcode_practice/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/devlavaniya/Leetcode_practice/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/devlavaniya/Leetcode_practice/tree/master/0509-fibonacci-number) |
@@ -210,6 +211,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/devlavaniya/Leetcode_practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/devlavaniya/Leetcode_practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/devlavaniya/Leetcode_practice/tree/master/0213-house-robber-ii) |
+| [0233-number-of-digit-one](https://github.com/devlavaniya/Leetcode_practice/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/devlavaniya/Leetcode_practice/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/devlavaniya/Leetcode_practice/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/devlavaniya/Leetcode_practice/tree/master/0746-min-cost-climbing-stairs) |
@@ -220,6 +222,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/devlavaniya/Leetcode_practice/tree/master/0002-add-two-numbers) |
+| [0233-number-of-digit-one](https://github.com/devlavaniya/Leetcode_practice/tree/master/0233-number-of-digit-one) |
 | [0509-fibonacci-number](https://github.com/devlavaniya/Leetcode_practice/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
