@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/devlavaniya/Leetcode_practice/tree/master/0002-add-two-numbers) |
+| [0092-reverse-linked-list-ii](https://github.com/devlavaniya/Leetcode_practice/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/devlavaniya/Leetcode_practice/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/devlavaniya/Leetcode_practice/tree/master/0146-lru-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/devlavaniya/Leetcode_practice/tree/master/0876-middle-of-the-linked-list) |
