@@ -296,6 +296,7 @@
 | [0182-duplicate-emails](https://github.com/devlavaniya/Leetcode_practice/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/devlavaniya/Leetcode_practice/tree/master/0183-customers-who-never-order) |
 | [0197-rising-temperature](https://github.com/devlavaniya/Leetcode_practice/tree/master/0197-rising-temperature) |
+| [0595-big-countries](https://github.com/devlavaniya/Leetcode_practice/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/devlavaniya/Leetcode_practice/tree/master/0607-sales-person) |
 | [1075-project-employees-i](https://github.com/devlavaniya/Leetcode_practice/tree/master/1075-project-employees-i) |
 | [1407-top-travellers](https://github.com/devlavaniya/Leetcode_practice/tree/master/1407-top-travellers) |
