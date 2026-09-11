@@ -6,6 +6,7 @@
 | ------- |
 | [1291-sequential-digits](https://github.com/devlavaniya/Leetcode_practice/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/devlavaniya/Leetcode_practice/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/devlavaniya/Leetcode_practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/devlavaniya/Leetcode_practice/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/devlavaniya/Leetcode_practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Linked List
@@ -44,6 +45,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/devlavaniya/Leetcode_practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/devlavaniya/Leetcode_practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/devlavaniya/Leetcode_practice/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/devlavaniya/Leetcode_practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/devlavaniya/Leetcode_practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/devlavaniya/Leetcode_practice/tree/master/3731-find-missing-elements) |
 ## String
@@ -98,6 +100,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/devlavaniya/Leetcode_practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/devlavaniya/Leetcode_practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/devlavaniya/Leetcode_practice/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/devlavaniya/Leetcode_practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/devlavaniya/Leetcode_practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/devlavaniya/Leetcode_practice/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/devlavaniya/Leetcode_practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -237,6 +240,7 @@
 | [0002-add-two-numbers](https://github.com/devlavaniya/Leetcode_practice/tree/master/0002-add-two-numbers) |
 | [0233-number-of-digit-one](https://github.com/devlavaniya/Leetcode_practice/tree/master/0233-number-of-digit-one) |
 | [0509-fibonacci-number](https://github.com/devlavaniya/Leetcode_practice/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/devlavaniya/Leetcode_practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
