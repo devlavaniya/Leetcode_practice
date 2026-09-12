@@ -94,6 +94,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devlavaniya/Leetcode_practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/devlavaniya/Leetcode_practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/devlavaniya/Leetcode_practice/tree/master/2248-intersection-of-multiple-arrays) |
+| [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/devlavaniya/Leetcode_practice/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/devlavaniya/Leetcode_practice/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/devlavaniya/Leetcode_practice/tree/master/2784-check-if-array-is-good) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/devlavaniya/Leetcode_practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -233,6 +234,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/devlavaniya/Leetcode_practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/devlavaniya/Leetcode_practice/tree/master/0877-stone-game) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/devlavaniya/Leetcode_practice/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/devlavaniya/Leetcode_practice/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/devlavaniya/Leetcode_practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
