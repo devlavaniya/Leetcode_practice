@@ -312,6 +312,7 @@
 | [1075-project-employees-i](https://github.com/devlavaniya/Leetcode_practice/tree/master/1075-project-employees-i) |
 | [1407-top-travellers](https://github.com/devlavaniya/Leetcode_practice/tree/master/1407-top-travellers) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/devlavaniya/Leetcode_practice/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| [1757-recyclable-and-low-fat-products](https://github.com/devlavaniya/Leetcode_practice/tree/master/1757-recyclable-and-low-fat-products) |
 ## Bracket Sequences
 |  |
 | ------- |
