@@ -95,6 +95,7 @@
 | [1313-decompress-run-length-encoded-list](https://github.com/devlavaniya/Leetcode_practice/tree/master/1313-decompress-run-length-encoded-list) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/devlavaniya/Leetcode_practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/devlavaniya/Leetcode_practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1539-kth-missing-positive-number](https://github.com/devlavaniya/Leetcode_practice/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/devlavaniya/Leetcode_practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devlavaniya/Leetcode_practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/devlavaniya/Leetcode_practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -120,6 +121,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devlavaniya/Leetcode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/devlavaniya/Leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/devlavaniya/Leetcode_practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1539-kth-missing-positive-number](https://github.com/devlavaniya/Leetcode_practice/tree/master/1539-kth-missing-positive-number) |
 ## Sorting
 |  |
 | ------- |
