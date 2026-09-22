@@ -9,10 +9,10 @@ class Solution {
         int i=1;
         while(k>0){
             if(!hs.contains(i)) k--;
-
             i++;
         }
+        return i-1;
         
-       return i-1;
+       
     }
 }
