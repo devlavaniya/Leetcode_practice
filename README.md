@@ -65,6 +65,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devlavaniya/Leetcode_practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/devlavaniya/Leetcode_practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/devlavaniya/Leetcode_practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3498-reverse-degree-of-a-string](https://github.com/devlavaniya/Leetcode_practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/devlavaniya/Leetcode_practice/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/devlavaniya/Leetcode_practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Array
@@ -187,6 +188,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/devlavaniya/Leetcode_practice/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/devlavaniya/Leetcode_practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3360-stone-removal-game](https://github.com/devlavaniya/Leetcode_practice/tree/master/3360-stone-removal-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/devlavaniya/Leetcode_practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/devlavaniya/Leetcode_practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
