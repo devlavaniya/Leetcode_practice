@@ -5,7 +5,7 @@ class Solution {
         for(int i=0 ; i<n ; i++){
             int value = 'a' - s.charAt(i) + 26;
             sum+=value*(i+1);
-            System.out.println(sum);
+          
         }
         return sum;
         
