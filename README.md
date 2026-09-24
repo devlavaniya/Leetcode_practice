@@ -146,6 +146,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/devlavaniya/Leetcode_practice/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/devlavaniya/Leetcode_practice/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/devlavaniya/Leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0233-number-of-digit-one](https://github.com/devlavaniya/Leetcode_practice/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/devlavaniya/Leetcode_practice/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/devlavaniya/Leetcode_practice/tree/master/0292-nim-game) |
@@ -232,6 +233,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/devlavaniya/Leetcode_practice/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/devlavaniya/Leetcode_practice/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/devlavaniya/Leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devlavaniya/Leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devlavaniya/Leetcode_practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/devlavaniya/Leetcode_practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -257,6 +259,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/devlavaniya/Leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/devlavaniya/Leetcode_practice/tree/master/0509-fibonacci-number) |
 ## Combinatorics
 |  |
