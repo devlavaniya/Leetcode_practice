@@ -1,14 +1,13 @@
 class Solution {
-    public int mincost(int[] arr , int i , int[] dp ){
-        if(i>=arr.length) return 0;
+    public int solve(int[] cost , int i , int[] dp){
+        if(i>=cost.length) return 0;
         if(dp[i]!=-1) return dp[i];
-        return  dp[i] = arr[i] + Math.min(mincost(arr, i+1 , dp) , mincost(arr , i+2 , dp));
-        
+        dp[i] = cost[i] + Math.min(solve(cost , i+1 , dp) , solve(cost , i+2 , dp));
+        return dp[i];
     }
     public int minCostClimbingStairs(int[] cost) {
-        int n=cost.length;
-        int[] dp = new int[n+1];
-        Arrays.fill(dp , -1);
-        return Math.min(mincost(cost , 0 , dp) , mincost(cost , 1 , dp));
+        int[] dp = new int[cost.length+1];
+        Arrays.fill(dp,-1);
+        return Math.min(solve(cost , 0 , dp) , solve(cost , 1 , dp));
     }
 }
